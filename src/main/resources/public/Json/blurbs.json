@@ -1,0 +1,48 @@
+{
+  "blurbs": [
+    {
+      "name": "Scott",
+      "mention": "I like how you explain code."
+    },
+    {
+      "name":"Koddie",
+      "mention":"Thanks to Koddie for the new snacks!"
+    },
+
+    {
+      "name": "Mark",
+      "mention":  "Shout out to Mark!  He's a great partner to work with. "
+    },
+    {
+      "name": "Ted",
+      "mention": "Ted helped me to better understand my weekend challenge."
+    },
+    {
+      "name": "Joan",
+      "mention": "Joan helped me better understand the mini challenge."
+    },
+
+    {
+      "name": "Manny",
+      "mention": "Manny his patience and explanations helped me process the peer challenge."
+    },
+
+    {
+      "name": "Lori",
+      "mention": "I think Lori is thinking like a programmer and asking great questions."
+    },
+    {
+      "name": "Zech",
+      "mention": "Zech walked me through each step and explained things that were confusing to me."
+    },
+    {
+      "name": "Kym",
+      "mention": "Kym was helpful and patient."
+    },
+    {
+      "name": "Jake",
+      "mention": "Shout out to Jake for working out our group challenge on the timer project."
+    }
+
+  ]
+}
